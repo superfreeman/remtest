@@ -6,4 +6,8 @@ dfdf
 
 test branch
 
+<<<<<<< HEAD
 master modified!
+=======
+test dev:q
+>>>>>>> dev
